@@ -1,0 +1,11 @@
+img {
+    width: 100px;
+    border: 1px solid black;
+}
+
+.kantri{
+    width: 150px;
+    border: 2px solid black;
+    height: 200px;
+    display: inline-block;
+}
